@@ -12,3 +12,5 @@ https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applic
 https://www.agilequalitymadeeasy.com/post/checklist-for-web-application-usability-testing
 https://www.hotjar.com/user-testing/examples/
 https://www.hotjar.com/usability-testing/template-checklist/
+
+This some text for conflict
